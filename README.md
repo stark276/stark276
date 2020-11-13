@@ -8,4 +8,4 @@
 - 💬 Ask me about Flask and Django
 - 📫 How to reach me: kaniet.oskonbaev@students.makeschool.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Check out my Portfolio : https://stark276.github.io/stark276/
