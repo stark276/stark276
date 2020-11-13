@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Kaniet Oskonbaev
 
-
-**stark276/stark276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on KFS School
 - 🌱 I’m currently learning Docker 
@@ -11,5 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Go
 - 💬 Ask me about Flask and Django
 - 📫 How to reach me: kaniet.oskonbaev@students.makeschool.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
