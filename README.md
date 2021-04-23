@@ -9,3 +9,5 @@
 - 📫 How to reach me: kaniet.oskonbaev@students.makeschool.com
 - 😄 Pronouns: he/him
 - ⚡ Check out my Portfolio : https://stark276.github.io/stark276/
+
+![GitHub followers](https://img.shields.io/github/followers/stark276?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/stark276/sweetofor?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/stark276/gameshop?style=social)
